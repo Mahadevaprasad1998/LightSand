@@ -4,5 +4,10 @@
 		<members>CatalogOrderController</members>
 		<name>ApexClass</name>
 	</types>
+	<types>
+		<members>CatalogOrder</members>
+		<members>DisplayRetailers</members>
+		<name>AuraDefinitionBundle</name>
+	</types>
 	<version>55.0</version>
 </Package>
